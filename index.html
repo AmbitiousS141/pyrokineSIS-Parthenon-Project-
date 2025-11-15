@@ -1,11 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>pyrokineSIS</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sisterhood Scavenger Hunt</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600;800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css" />
+    <audio control autoplay>
+        <source src="audio.mp3" type="audio/mpeg">
+        Your browser does not support this audio element
+    </audio>
 </head>
 <body>
-    
+
+<header class="header">
+    <h1>Sisterhood Scavenger Hunt 🔍❤️</h1>
+    <p class="tagline">Decode. Discover. Unite.</p>
+</header>
+
+<section class="intro">
+    <h2>Welcome!</h2>
+    <p>
+        This scavenger hunt is all about fun, sisterhood, and solving clever puzzles.
+        Each clue unlocks the next step. Ready to begin?
+    </p>
+    <button id="startBtn" class="btn">Start the Hunt</button>
+</section>
+
+<!-- Puzzle Section -->
+<section id="puzzleSection" class="hidden">
+    <h2>🧩 Puzzle #1 — Secret Message</h2>
+    <p>Decrypt the secret code below:</p>
+
+    <div class="code-box">Zl fvggref ner gur orfg 👯‍♀️</div>
+
+    <input id="answerInput" type="text" placeholder="Type your answer..." />
+    <button id="submitAnswer" class="btn">Submit</button>
+
+    <p id="feedback" class="feedback"></p>
+</section>
+
+<!-- Next Clue Section -->
+<section id="nextClue" class="hidden">
+    <h2>🎉 Correct!</h2>
+    <p>The next clue is hidden somewhere on this page... Hover around 👀</p>
+
+    <div class="hidden-clue" id="secretHover">
+        Clue #2: “Sisterhood grows when kindness glows.”  
+        
+    </div>
+</section>
+
+<script src="script.js"></script>
+
+
+
 </body>
 </html>
