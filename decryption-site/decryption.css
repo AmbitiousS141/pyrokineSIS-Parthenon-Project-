@@ -33,6 +33,7 @@ html, body {
 
 .levels button {
     margin: 1vw;
+    padding: 1vw;
     border: none;
     border-radius: 3px;
     font-family: 'Courier New', monospace;
