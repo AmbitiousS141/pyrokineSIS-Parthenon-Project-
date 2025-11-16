@@ -2,6 +2,13 @@ html, body {
     margin: 0;
     font-family: 'Courier New', monospace;
     background: #faf2e8;
+    background-image: url('assets/fire-removebg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    width: 100%;
+    margin: 0;
     color: #111;
 }
 
@@ -59,8 +66,8 @@ html, body {
     padding: 0.3rem 0.5rem;
     width: 14.5%;           
     border-radius: 10px;
-    border: 3px solid #eb6b1e;
-    background: linear-gradient(#faf2e8, #faf2e8, #ff956f, #eb764c);
+    border: 3px solid #fb9f45;
+    background: linear-gradient(#fff3db, #ffeac1, #fb9f45);
     box-shadow: 0 4px 8px rgba(0,0,0,0.7);
     z-index: 1000;          
     opacity: 0;           
