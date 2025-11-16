@@ -1,4 +1,4 @@
-function checkInputLevel() {
+function checkInput() {
     let inputValue = document.getElementById("myInput").value;
     let outputElement = document.getElementById("outputMessage");
         
