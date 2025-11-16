@@ -15,10 +15,10 @@
     <p class="tagline"><i>Bring out the flame in us and our sisters.</i></p>
 </header>
 <div class="levels">
-  <a href="decryption1.html"><button>
+  <a href="decryption-1.html"><button>
    <b>Level 1</b>
   </button></a>
-  <a href="decryption2.html"><button>
+  <a href="decryption-2.html"><button>
    <b>Level 2</b>
   </button></a>
   <a href="decryption3.html"><button>
@@ -28,7 +28,24 @@
    <b>Level 4</b>
   </button></a>
 </div>
-<p>Decrypt this word to understand the true meaning of this website</p>
-<img src="assets/sisterhood.png" alt="Circle with scrambled letters" width="500" height="600">
+
+<div class="crossword">
+    <h2>Crossword!</h2>
+    <p>Using the clues under the image, you need to fill in the crossword and submit a well-known proverb.</p>
+    <img src="../assets/crossword.png" alt="crossword puzzle">
+    <p>Clues:</p>
+    <ol>
+        <li>To be certain that everything will work out well in the end >:3</li>
+        <li>To be... or not to be. -Prince Hamlet</li>
+        <li>The first three letters of something that both your laptop and a piano have in common.</li>
+    </ol>
+
+    <div class="submitting">
+        <input type="text" id="myInput" placeholder="Enter something...">
+        <button onclick="checkInput()">Submit</button>
+        <p id="outputMessage"></p>
+    </div>
+</div>
 </body>
+<script src="decryption4.js"></script>
 </html>

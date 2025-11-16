@@ -42,6 +42,40 @@ html, body {
     color: #fbd68d;
 }
 
+.wordscape, .crossword {
+    width: 70%;
+    margin: 2rem auto;
+    padding: 1rem;
+    border-radius: 12px;
+    background: #fbd68d;
+    border: 6px solid #fb9f45;
+}
+
+.wordscape img, .crossword img {
+    width: 40%;
+    height: auto;
+    align-self: center;
+    margin: auto;
+    display: block;
+}
+
+.hint {
+    text-align: right;
+}
+
+.submitting {
+    text-align: center;
+}
+
+.submitting button {
+    border: none;
+    border-radius: 3px;
+    font-family: 'Courier New', monospace;
+    font-size: 1rem;
+    background-color: #c93d09;
+    color: #fbd68d;
+}
+
 .Kirby {
     display: block;
     margin: 0 auto;
