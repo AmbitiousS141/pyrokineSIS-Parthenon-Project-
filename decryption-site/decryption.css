@@ -41,3 +41,11 @@ html, body {
     background-color: #c93d09;
     color: #fbd68d;
 }
+
+.Kirby {
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+    height: auto;
+    margin-top: 1rem;
+}
