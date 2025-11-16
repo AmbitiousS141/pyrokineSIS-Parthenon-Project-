@@ -51,5 +51,10 @@ html, body {
 }
 
 .emoji {
+    display: block;
     text-align: center;
+    margin: 0 auto;
+    height:auto;
+    width: 60%;
+    margin: top 1rem;
 }
