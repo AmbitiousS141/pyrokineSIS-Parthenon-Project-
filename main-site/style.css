@@ -1,7 +1,7 @@
 html, body {
     margin: 0;
     font-family: 'Courier New', monospace;
-    background: #faf2e8;
+    background: #ffffff;
     color: #111;
 }
 
@@ -67,7 +67,7 @@ html, body {
     margin: 2rem auto;
     padding: 1rem;
     border-radius: 12px;
-    background: #fbd68d;
+    background: #ffffff;
     border: 6px solid #fb9f45;
 }
 
