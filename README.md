@@ -1,0 +1,13 @@
+# About Our Project!
+### Stephanie Uzea
+I'm a 15-year-old from Ottawa, Canada! I'm an aspiring mechatronics engineer and web dev enthusiast :D  
+  
+Kylie, Isa and I thought of pyrokineSIS before bed on Friday, with the inspirational words of Tarika Barrett and other women who lead still replaying in our minds. We chose to name it so because the word is a kind of power, like the power that all girls have within themselves - that they must let shine, that they must use to help their sisters. Through fun games with empowering messages, pyrokineSIS aims to subconsciously change girls' mindsets to know and show their worth. We hope you enjoy our scavenger hunt on this page, or our decrypting challenges that you can access by clicking the logo in the top left corner!  
+  
+I designed the pyrokyneSIS logo using Canva. PyrokineSIS' pages were put together with HTML, CSS, and some JavaScript. Our team had some issues finding a collaboration method that worked for us, but Zach showed us how to set up GitHub Desktop (and we improved our communication skills), so from there, edits went pretty smoothly. We also had to change the functionality of our website to be able to ship it by the deadline - we learned how to work under pressure, prioritize tasks and take risks. Big thanks to Zach, Celeste... the whole Hack Club team and the Parthenon participants for the 24/7 guidance and energy :D It was such a supportive environment and I enjoyed meeting everyone!  
+  
+### Kylie Xavier
+I'm 16 from DC, but I live in Virginia. One of the best things I work on in this project was puzzle #3: THE EMOJI ALAPHABET! I wanted to bring a more funny tone for this puzzle to engage the users and just bring more fun in general to our project. Something I struggled with was adding the user input.. luckly I had resources from W3 Schools and the leaders in the Parthenon which helped me out greatly. I'm proud that despite making pretty last minute changes, we were still able to work something together and have somer sort of product to present to you all! Although there were quite a lot of obstacles, we were able to perserve as team. I'm grateful for all the support we've had making our project.  
+
+### Isabella Ruiz
+We made this project to inspire sisterhood like one on the core values in GirlsWhoCode! For a twist we decided to implement a scavenger hunt! We made using html,js and css!🔥I personally struggle with make a clear decryption code but decided to make a simple easy one and fun! I learn to add collabortions parts in VS and GITHUB and code with others!  
