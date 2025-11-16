@@ -3,7 +3,7 @@
         let inputValue = document.getElementById("myInput").value;
         let outputElement = document.getElementById("outputMessage");
 
-        // if/else statement to evaluate the input value
+        // if/else statement
         if (inputValue === "EMPOWERMENT") {
             outputElement.innerHTML = "You got it right!";
         } else if (inputValue === "IDK") {
