@@ -5,7 +5,6 @@ const submitAnswer = document.getElementById("submitAnswer");
 const feedback = document.getElementById("feedback");
 const nextClue = document.getElementById("nextClue");
 
-// Puzzle 1 answer: ROT13 which will give you " My sisters are the best" 
 const correctAnswer = "my sisters are the best";
 
 startBtn.addEventListener("click", () => {
@@ -13,7 +12,6 @@ startBtn.addEventListener("click", () => {
     startBtn.style.display = "none";
 });
 
-// Check puzzle answer
 submitAnswer.addEventListener("click", () => {
     const user = answerInput.value.toLowerCase().trim();
 

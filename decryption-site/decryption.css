@@ -2,7 +2,7 @@ html, body {
     margin: 0;
     font-family: 'Courier New', monospace;
     background: #faf2e8;
-    color: #111; /* dark text for readability on white */
+    color: #111; 
 }
 
 .header {

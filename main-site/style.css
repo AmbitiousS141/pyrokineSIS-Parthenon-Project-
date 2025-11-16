@@ -2,7 +2,7 @@ html, body {
     margin: 0;
     font-family: 'Courier New', monospace;
     background: #faf2e8;
-    color: #111; /* dark text for readability on white */
+    color: #111;
 }
 
 .header {
@@ -125,7 +125,6 @@ input {
     font-weight: 600;
 }
 
-/* Hidden clue hover */
 .hidden-clue {
     background: #e90505;
     padding: 1rem;
@@ -145,7 +144,6 @@ input {
     display: none;
 }
 
-/* Pixel fire floating badge (full-width, centered across bottom) */
 .pixel-fire {
     position: fixed;
     left: 0;
@@ -155,12 +153,11 @@ input {
     justify-content: center;
     align-items: flex-end;
     z-index: 9999;
-    pointer-events: none; /* allow clicks through */
+    pointer-events: none;
     padding: 12px 0;
 }
 
 .pixel-fire::before {
-    /* subtle animated glow strip behind the badge across the bottom */
     content: '';
     position: absolute;
     left: 0;
