@@ -23,3 +23,18 @@ html, body {
     font-weight: 300;
     font-size: 1.1rem;
 }
+
+.levels {
+    display: flex; 
+    flex-direction: row; 
+    align-items: center; 
+    justify-content: center;
+}
+
+.levels button {
+    margin: 1vw;
+    border: none;
+    border-radius: 3px;
+    background-color: #c93d09;
+    color: #fbd68d;
+}
