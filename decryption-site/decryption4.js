@@ -5,6 +5,6 @@ function checkInput() {
     if (inputValue === "confidence is key") {
             outputElement.innerHTML = "You got it correct. Amazing!";
         } else {
-            outputElement.innerHTML = "Try again!"
+            outputElement.innerHTML = "Try again!!"
         }
     }

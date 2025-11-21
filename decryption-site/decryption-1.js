@@ -4,9 +4,7 @@ function checkInput() {
         
     if (inputValue === "inhale confidence exhale doubt") {
             outputElement.innerHTML = "You got it correct. Amazing!";
-        } else if (inputValue === "IDK") {
-            outputElement.innerHTML = "You can do better!";
-        } else {
+    } else {
             outputElement.innerHTML = "Try again!"
         }
     }
